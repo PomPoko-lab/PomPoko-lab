@@ -1,6 +1,6 @@
 # PomPoko-lab
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PomPoko-lab&hide_border=true&theme=dracula&layout=compact&bg_color=0D1117">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PomPoko-lab&hide_border=true&theme=catppuccin_mocha&layout=compact">
 
 
 ![](https://komarev.com/ghpvc/?username=PomPoko-lab&color=4FC08D)
