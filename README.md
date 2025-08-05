@@ -7,8 +7,9 @@
 
 ### Hi there 👋
 
-
 > I'm a software engineer who loves creating smooth, fun experiences for the web and for games.
+
+<br>
 
 Welcome to my corner of the internet! I'm a software engineer who loves creating smooth, fun experiences for the web and for games. My journey started in full-stack development, and now I spend my days building with modern front-end tech.
 
