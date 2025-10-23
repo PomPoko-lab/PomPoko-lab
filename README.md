@@ -44,3 +44,7 @@ When I'm not deep in code, I'm tending to my passion project: a custom TERA priv
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
     <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
 </p>
+
+---
+
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/PomPoko-lab/contributions)
