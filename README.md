@@ -11,9 +11,6 @@
 
 Welcome to my corner of the internet! I'm a software engineer who loves creating smooth, fun experiences for the web and for games. My journey started in full-stack development, and now I spend my days building with modern front-end tech.
 
-When I'm not deep in code, I'm tending to my passion project: a custom TERA private server. It's an adventure where I handle everything from the ground up.
-
--   🎮 My TERA server is my playground! I handle the entire project, from server setup, game client patching, and class rebalancing to managing the domain/DNS, designing client graphics, and building a full-stack web portal connected directly to the game's database.
 -   ✨ These days, I'm having a blast building with **Vue.js**, **TypeScript**, and bringing apps to life on mobile with **NativeScript**.
 -   🌱 I'm always curious about new tools and enjoy hobbies like building Gundam model kits, gaming, and collecting Pokémon cards.
 
